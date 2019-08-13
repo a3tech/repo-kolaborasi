@@ -1,2 +1,6 @@
 wew
+<<<<<<< HEAD
 zzzzz
+=======
+wew
+>>>>>>> fitur

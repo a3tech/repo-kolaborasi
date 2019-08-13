@@ -1,6 +1,1 @@
-wew
-<<<<<<< HEAD
-zzzzz
-=======
-wew
->>>>>>> fitur
+wewasasd
